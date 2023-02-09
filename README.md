@@ -1,6 +1,6 @@
 # phonebook
 PHONEBOOK USING C PROGRAMMING : 
-THIS PROJECT WAS A PART OF MY COLLEGE PROJECT 
+(SEM TWO  PROJECT)
 
 IMP POINTS :
   - project was created using basics of c prg
